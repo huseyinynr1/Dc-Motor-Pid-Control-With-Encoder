@@ -1,0 +1,13 @@
+../Core/Src/JGB37-520_Encoder.c:5:14:Encoder_GetParameters	1
+../Core/Src/JGB37-520_Encoder.c:9:6:Motor_Init	5
+../Core/Src/JGB37-520_Encoder.c:29:6:Encoder_Update	4
+../Core/Src/JGB37-520_Encoder.c:39:9:Encoder_GetDeltaWithOverflow	2
+../Core/Src/JGB37-520_Encoder.c:47:6:Encoder_CalculateSpeedAndAcceleration	1
+../Core/Src/JGB37-520_Encoder.c:58:6:Motor_SetPwmDutyCycle	2
+../Core/Src/JGB37-520_Encoder.c:78:10:Encoder_GetRPM	1
+../Core/Src/JGB37-520_Encoder.c:83:7:Encoder_GetSpeed	2
+../Core/Src/JGB37-520_Encoder.c:90:7:Encoder_GetAngle	1
+../Core/Src/JGB37-520_Encoder.c:96:7:Encoder_GetAcceleration	1
+../Core/Src/JGB37-520_Encoder.c:100:9:Encoder_GetEncoderPulse	1
+../Core/Src/JGB37-520_Encoder.c:104:9:Encoder_GetPreviousEncoderPulse	1
+../Core/Src/JGB37-520_Encoder.c:108:9:Encoder_GetDeltaPulse	1
